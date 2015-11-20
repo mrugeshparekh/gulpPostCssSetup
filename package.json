@@ -1,0 +1,28 @@
+{
+  "name": "gulp_postcss_setup",
+  "version": "1.0.0",
+  "description": "Basic setup of postCSS using gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrugeshparekh/gulpPostCssSetup.git"
+  },
+  "keywords": [
+    "postCss",
+    "gulp"
+  ],
+  "author": "mrugeshparekh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrugeshparekh/gulpPostCssSetup/issues"
+  },
+  "homepage": "https://github.com/mrugeshparekh/gulpPostCssSetup#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.1.0",
+    "cssnext": "^1.8.4",
+    "precss": "^1.3.0"
+  }
+}

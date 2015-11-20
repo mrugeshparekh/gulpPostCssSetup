@@ -1,0 +1,26 @@
+.test{
+    bacground: balck;
+}
+
+/*Test Autoprefixer*/
+
+.autoprefixer{
+    display: flex;
+}
+
+/*Test cssnext*/
+
+.cssnext{
+    backgroud: color(red alpha(-10%));
+}
+
+/*Test precss*/
+
+.precss{
+    @if 1 < 2 {
+	background: green;
+    }
+    @else {
+	background: blue;
+    }
+}
